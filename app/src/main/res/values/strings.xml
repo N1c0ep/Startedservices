@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Started services</string>
+    <string name="question">What is the secret of comedy?</string>
+    <string name="response">Timing!</string>
+    <string name="medico">Alerta de paciente</string>
+    <string name="paciente">Me siento mal!</string>
+
+</resources>
